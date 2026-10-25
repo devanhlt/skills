@@ -62,6 +62,18 @@ This rebuilds the per-skill upload ZIPs and download catalog. The script package
 
 See [source provenance](./SOURCES.md) for import origins. No original books or extracted book text are included. The new design-and-rewards skill is an applied synthesis, not the full books.
 
+## UI and UX design
+
+### User-invoked
+
+No UI/UX Pro Max restriction requires explicit-only invocation.
+
+### Model-invoked
+
+- **[ui-ux-pro-max](./skills/engineering/ui-ux-pro-max/SKILL.md)**: Search local styles, palettes, typography, accessibility, and stack guidance; generate a coherent design system for an interface.
+
+The skill includes its Python search engine, CSV datasets, references, and upstream MIT license. Python 3 is required; no external Python packages are required. Use `/ui-ux-pro-max` in Claude Code, or upload its individual ZIP from `downloads/` in Claude/Cowork.
+
 ## Engineering and productivity reference
 
 The following inherited documentation describes the original workflows. Its original install commands refer to the upstream collection; use the installation section above for this fork.

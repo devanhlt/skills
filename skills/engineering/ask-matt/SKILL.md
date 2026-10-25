@@ -125,3 +125,8 @@ For game development, read the relevant skill before recommending it. Use the fu
 - **`/unity-tdd-workflow`**: Implement Unity gameplay rules through test-first development.
 
 Start studio onboarding with `ccgs-start`. Use `game-design-and-rewards` for a focused design or reward-system question without imposing the full studio pipeline. The collection does not supply dedicated `create-stories` or `dev-story` skills; do not claim those are installed.
+
+
+## UI and UX design
+
+- **`/ui-ux-pro-max`**: Search local interface-design guidance and generate a design system. Read its SKILL.md before recommending it. Use for color, typography, layout, accessibility, interaction, charts, or implementation guidance for a detected stack. It complements `/prototype`: UI/UX Pro Max supplies design guidance, while prototype answers a specific unresolved question with a runnable artifact. It does not replace the engineering implementation or review flows.

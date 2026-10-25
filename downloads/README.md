@@ -22,6 +22,7 @@ Upload one ZIP per skill through Claude Customize > Skills. These are individual
 | engineering | [to-spec](../skills/engineering/to-spec/SKILL.md) | [Download](to-spec.zip) |
 | engineering | [to-tickets](../skills/engineering/to-tickets/SKILL.md) | [Download](to-tickets.zip) |
 | engineering | [triage](../skills/engineering/triage/SKILL.md) | [Download](triage.zip) |
+| engineering | [ui-ux-pro-max](../skills/engineering/ui-ux-pro-max/SKILL.md) | [Download](ui-ux-pro-max.zip) |
 | engineering | [wayfinder](../skills/engineering/wayfinder/SKILL.md) | [Download](wayfinder.zip) |
 | engineering | [wizard](../skills/engineering/wizard/SKILL.md) | [Download](wizard.zip) |
 | game-development | [ccgs-brainstorm](../skills/game-development/ccgs-brainstorm/SKILL.md) | [Download](ccgs-brainstorm.zip) |

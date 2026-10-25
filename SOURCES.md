@@ -5,3 +5,5 @@
 - `game-design-and-rewards`: authored in this chat from the user-provided 2008 Jesse Schell book and Travis Day's 53-slide presentation. Source identity, chapter/page mapping, and synthesis limits are in the skill's `references/sources.md`. Original PDFs, full extracted text, and local Desktop paths are excluded.
 
 Source skill behavior is preserved during consolidation. The added Codex picker metadata and repository documentation support discovery; they do not claim behavioral validation in Claude.
+
+- UI/UX Pro Max: primary skill imported from [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill), version 2.15.0, commit `d14efff8ed1faa4187f004f79926f428c8074ec7`. Its MIT license is retained inside the skill and every generated upload ZIP. See `skills/engineering/ui-ux-pro-max/IMPORT.md` for the exact extraction scope and path adaptations.

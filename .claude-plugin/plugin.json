@@ -1,6 +1,6 @@
 {
   "name": "devanhlt-skills",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "description": "Engineering, productivity, Unity game-studio workflows, and game-design skills collected by devanhlt.",
   "author": {
     "name": "devanhlt",
@@ -19,7 +19,10 @@
     "productivity",
     "game-development",
     "unity",
-    "rewards"
+    "rewards",
+    "ui",
+    "ux",
+    "design-system"
   ],
   "skills": [
     "./skills/engineering/ask-matt",
@@ -70,6 +73,7 @@
     "./skills/game-development/story-review-test-fix",
     "./skills/game-development/unity-bug-root-cause",
     "./skills/game-development/unity-clean-architecture-review",
-    "./skills/game-development/unity-tdd-workflow"
+    "./skills/game-development/unity-tdd-workflow",
+    "./skills/engineering/ui-ux-pro-max"
   ]
 }

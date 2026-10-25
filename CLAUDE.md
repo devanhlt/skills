@@ -38,3 +38,6 @@ This fork also promotes `skills/game-development/`. It follows the promoted-buck
 The local marketplace is `devanhlt` and its plugin is `devanhlt-skills`. Use this fork's installation block at the start of `.agents/install-block.md`. Upstream installation instructions below that block are historical context. Game-development docs link to this GitHub fork rather than claiming publication on aihero.dev.
 
 Run `python3 scripts/package-skills.py` to refresh individual Claude ZIPs in `downloads/` from the promoted set. Never package original books, Desktop files, session data, or credentials. Run the plugin CLI validation if available; if Claude Code is absent, validate JSON, manifest paths, registration parity, and archive integrity and report that CLI validation was unavailable.
+
+
+Imported `skills/engineering/ui-ux-pro-max/` keeps its upstream scripts, data, reference prose, and punctuation. Its `SKILL.md` has documented host-path adaptations. Keep the MIT license in the source folder and generated ZIP. Newly authored collection documentation still follows the no-em-dash convention.

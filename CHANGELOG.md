@@ -1,5 +1,11 @@
 # devanhlt collection additions
 
+## 1.4.1
+
+- Add UI/UX Pro Max 2.15.0 with its search scripts, local datasets, references, and MIT license.
+- Adapt command paths for the collection's plugin and standalone skill installs.
+- Add a Claude upload ZIP and register the skill in the plugin and catalogs.
+
 ## 1.4.0
 
 - Add 21 game-studio skills and `game-design-and-rewards` in a game-development category.

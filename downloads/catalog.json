@@ -4,7 +4,7 @@
     "category": "engineering",
     "source": "skills/engineering/ask-matt",
     "archive": "ask-matt.zip",
-    "sha256": "803ba48370efee5e12975d8a4ab335e69a17427497d42753f882991579223ff4"
+    "sha256": "1f7f7666e261683c7eea720c4f0ef695fa53f086bb24a2d7f6823f4d78e57efd"
   },
   {
     "name": "code-review",
@@ -124,6 +124,13 @@
     "source": "skills/engineering/triage",
     "archive": "triage.zip",
     "sha256": "df581978fb16fb1c64dd7532af0117dafaa0372e9e977a80d0a11eeaeacbbf70"
+  },
+  {
+    "name": "ui-ux-pro-max",
+    "category": "engineering",
+    "source": "skills/engineering/ui-ux-pro-max",
+    "archive": "ui-ux-pro-max.zip",
+    "sha256": "ebfec2d3de71e2c2a91df40a4b58639322da18062915542fa0185255d5f1c5a1"
   },
   {
     "name": "wayfinder",

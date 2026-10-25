@@ -1,0 +1,3 @@
+interface:
+  display_name: "ccgs-reverse-document"
+  short_description: "Recover design or architecture documentation from existing code."

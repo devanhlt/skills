@@ -29,3 +29,12 @@ No em-dashes anywhere in this repo's prose (`SKILL.md` files, docs, `README.md`,
 ### Triage labels
 
 Canonical names, unchanged. See `docs/agents/triage-labels.md`. Issues are judged against [`SCOPE.md`](./SCOPE.md).
+
+
+## devanhlt collection additions
+
+This fork also promotes `skills/game-development/`. It follows the promoted-bucket requirements: root and bucket README entries, plugin registration, documentation under `docs/game-development/`, and `agents/openai.yaml` metadata. Keep its model-invoked defaults unless explicitly changed by the user. Preserve imported game-studio workflow text and attribution, including its original punctuation; newly authored prose follows the no-em-dash convention.
+
+The local marketplace is `devanhlt` and its plugin is `devanhlt-skills`. Use this fork's installation block at the start of `.agents/install-block.md`. Upstream installation instructions below that block are historical context. Game-development docs link to this GitHub fork rather than claiming publication on aihero.dev.
+
+Run `python3 scripts/package-skills.py` to refresh individual Claude ZIPs in `downloads/` from the promoted set. Never package original books, Desktop files, session data, or credentials. Run the plugin CLI validation if available; if Claude Code is absent, validate JSON, manifest paths, registration parity, and archive integrity and report that CLI validation was unavailable.

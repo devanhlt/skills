@@ -1,3 +1,12 @@
+# devanhlt collection additions
+
+## 1.4.0
+
+- Add 21 game-studio skills and `game-design-and-rewards` in a game-development category.
+- Add individual Claude upload ZIPs and a deterministic packaging script.
+- Register the full promoted collection with the fork-specific Claude Code marketplace.
+- Retain the engineering and productivity skills, and document source provenance.
+
 # mattpocock-skills
 
 ## 1.3.1

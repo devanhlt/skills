@@ -1,3 +1,74 @@
+# devanhlt skills for Claude
+
+A single collection of engineering, productivity, Unity studio, and game-design skills. The existing engineering collection is preserved, with 22 game-development skills added.
+
+## Install this collection
+
+### Claude Code
+
+```bash
+claude plugin marketplace add devanhlt/skills
+claude plugin install devanhlt-skills@devanhlt
+```
+
+### Claude and Cowork
+
+Download the individual ZIPs from [downloads](https://github.com/devanhlt/skills/tree/main/downloads). In Claude, open **Customize > Skills > + Create skill > Upload a skill** and upload the desired ZIP. Enable it after uploading. Upload individual skills, not the GitHub repository ZIP.
+
+Pick the plugin or individual skill installation for a given Claude environment to avoid duplicate skills. The plugin bundles the promoted engineering, productivity, and game-development categories. Beta and miscellaneous skills remain in the repository but are not promoted or included in these downloads.
+
+## Game development
+
+### User-invoked
+
+No game-development skills require explicit-only invocation.
+
+### Model-invoked
+
+- **[ccgs-brainstorm](./skills/game-development/ccgs-brainstorm/SKILL.md)**: Develop an idea into a structured game concept.
+- **[ccgs-code-review](./skills/game-development/ccgs-code-review/SKILL.md)**: Review game code for architecture, quality, and testability.
+- **[ccgs-consistency-check](./skills/game-development/ccgs-consistency-check/SKILL.md)**: Find inconsistent entities, values, and rules across designs.
+- **[ccgs-create-architecture](./skills/game-development/ccgs-create-architecture/SKILL.md)**: Translate game designs into a technical architecture.
+- **[ccgs-create-epics](./skills/game-development/ccgs-create-epics/SKILL.md)**: Turn approved designs and architecture into epics.
+- **[ccgs-design-system](./skills/game-development/ccgs-design-system/SKILL.md)**: Write a game design document for one system.
+- **[ccgs-learn](./skills/game-development/ccgs-learn/SKILL.md)**: Extract and review reusable lessons from completed work.
+- **[ccgs-map-systems](./skills/game-development/ccgs-map-systems/SKILL.md)**: Map game systems, dependencies, and design priorities.
+- **[ccgs-propagate-design-change](./skills/game-development/ccgs-propagate-design-change/SKILL.md)**: Trace design revisions into affected architecture decisions.
+- **[ccgs-resume-session](./skills/game-development/ccgs-resume-session/SKILL.md)**: Resume work from saved session state and verify it against files.
+- **[ccgs-reverse-document](./skills/game-development/ccgs-reverse-document/SKILL.md)**: Recover design or architecture documentation from existing code.
+- **[ccgs-save-session](./skills/game-development/ccgs-save-session/SKILL.md)**: Save project decisions, evidence, blockers, and the next step.
+- **[ccgs-sprint-plan](./skills/game-development/ccgs-sprint-plan/SKILL.md)**: Create or update a sprint plan from project capacity and priorities.
+- **[ccgs-start](./skills/game-development/ccgs-start/SKILL.md)**: Find the right starting point for a Unity game project.
+- **[ccgs-story-done](./skills/game-development/ccgs-story-done/SKILL.md)**: Check acceptance criteria and finalize a completed story.
+- **[ccgs-story-readiness](./skills/game-development/ccgs-story-readiness/SKILL.md)**: Check whether a story is sufficiently specified to implement.
+- **[game-design-and-rewards](./skills/game-development/game-design-and-rewards/SKILL.md)**: Design and review mechanics, player experience, progression, and rewards.
+- **[query-me](./skills/game-development/query-me/SKILL.md)**: Clarify hidden requirements through a structured interview.
+- **[story-review-test-fix](./skills/game-development/story-review-test-fix/SKILL.md)**: Compare implementation and tests with a written story specification.
+- **[unity-bug-root-cause](./skills/game-development/unity-bug-root-cause/SKILL.md)**: Trace a Unity gameplay defect to its originating trigger.
+- **[unity-clean-architecture-review](./skills/game-development/unity-clean-architecture-review/SKILL.md)**: Review separation of Unity presentation, domain, and infrastructure.
+- **[unity-tdd-workflow](./skills/game-development/unity-tdd-workflow/SKILL.md)**: Implement Unity gameplay rules through test-first development.
+
+For the studio workflow and known missing conceptual steps, see the [category guide](./skills/game-development/README.md). Use full skill names such as `/ccgs-code-review` to distinguish studio reviews from `/code-review` in the engineering collection.
+
+## Maintain the collection
+
+Canonical sources live under `skills/<category>/<skill-name>/SKILL.md`. Edit the source folder, then run:
+
+```bash
+python3 scripts/package-skills.py
+```
+
+This rebuilds the per-skill upload ZIPs and download catalog. The script packages only skills registered in the plugin manifest, rejects symlinks, and excludes hidden files. Adding a promoted skill also requires registering it in the plugin manifest and the category and root catalogs.
+
+See [source provenance](./SOURCES.md) for import origins. No original books or extracted book text are included. The new design-and-rewards skill is an applied synthesis, not the full books.
+
+## Engineering and productivity reference
+
+The following inherited documentation describes the original workflows. Its original install commands refer to the upstream collection; use the installation section above for this fork.
+
+<details>
+<summary>Original engineering and productivity documentation</summary>
+
 <p>
   <a href="https://www.aihero.dev/s/skills-newsletter">
     <picture>
@@ -256,3 +327,5 @@ General workflow tools, not code-specific.
 
 - **[grilling](./skills/productivity/grilling/SKILL.md)**: Interview the user relentlessly about a plan, decision, or idea until every branch of the design tree is resolved. The reusable interview primitive behind `grill-me`, `grill-with-docs`, `triage`, `wayfinder` and `improve-codebase-architecture`.
 - **[writing-for-agents](./skills/productivity/writing-for-agents/SKILL.md)**: Writing documents for agents: skills, AGENTS.md/CLAUDE.md, and any doc an agent reaches by a pointer.
+
+</details>

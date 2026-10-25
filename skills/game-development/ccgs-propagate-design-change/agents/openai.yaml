@@ -1,0 +1,3 @@
+interface:
+  display_name: "ccgs-propagate-design-change"
+  short_description: "Trace design revisions into affected architecture decisions."

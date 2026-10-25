@@ -1,0 +1,3 @@
+interface:
+  display_name: "ccgs-start"
+  short_description: "Find the right starting point for a Unity game project."

@@ -1,0 +1,3 @@
+interface:
+  display_name: "ccgs-save-session"
+  short_description: "Save project decisions, evidence, blockers, and the next step."

@@ -1,0 +1,3 @@
+interface:
+  display_name: "ccgs-code-review"
+  short_description: "Review game code for architecture, quality, and testability."

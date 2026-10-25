@@ -1,0 +1,3 @@
+interface:
+  display_name: "ccgs-create-architecture"
+  short_description: "Translate game designs into a technical architecture."

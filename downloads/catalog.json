@@ -1,0 +1,345 @@
+[
+  {
+    "name": "ask-matt",
+    "category": "engineering",
+    "source": "skills/engineering/ask-matt",
+    "archive": "ask-matt.zip",
+    "sha256": "803ba48370efee5e12975d8a4ab335e69a17427497d42753f882991579223ff4"
+  },
+  {
+    "name": "code-review",
+    "category": "engineering",
+    "source": "skills/engineering/code-review",
+    "archive": "code-review.zip",
+    "sha256": "3ba8b165498e30c673cd718651b8d0d78fa875f7d590125d4d18815205ddeed4"
+  },
+  {
+    "name": "codebase-design",
+    "category": "engineering",
+    "source": "skills/engineering/codebase-design",
+    "archive": "codebase-design.zip",
+    "sha256": "18aee117d0d5474e4fccbe06e2e20ca4205e53b00f7e43d4299ec171b2cbf2d4"
+  },
+  {
+    "name": "diagnosing-bugs",
+    "category": "engineering",
+    "source": "skills/engineering/diagnosing-bugs",
+    "archive": "diagnosing-bugs.zip",
+    "sha256": "d2076acbfed00031a24cfb8dc603a8af2a554d38d65669165724404f543d779e"
+  },
+  {
+    "name": "domain-modeling",
+    "category": "engineering",
+    "source": "skills/engineering/domain-modeling",
+    "archive": "domain-modeling.zip",
+    "sha256": "7ed127e4caa1ed043dd8e2ad012e8e64aadcecec0e199a611a8877750bee1389"
+  },
+  {
+    "name": "grill-with-docs",
+    "category": "engineering",
+    "source": "skills/engineering/grill-with-docs",
+    "archive": "grill-with-docs.zip",
+    "sha256": "e3ee8b62b4b5bd4fdf3e7ad9a423c4ef67f205b1449db59ca9d46581f679d57d"
+  },
+  {
+    "name": "implement",
+    "category": "engineering",
+    "source": "skills/engineering/implement",
+    "archive": "implement.zip",
+    "sha256": "3af526784d0073672c9e9102cf66701a1f1998cea53db3e9ee9b2cd9011b7c1a"
+  },
+  {
+    "name": "implement-spec",
+    "category": "engineering",
+    "source": "skills/engineering/implement-spec",
+    "archive": "implement-spec.zip",
+    "sha256": "eacc7eb3beca95083c2657a07def14c2ad699d56fc5978aa7def9bdee7dc5bee"
+  },
+  {
+    "name": "improve-codebase-architecture",
+    "category": "engineering",
+    "source": "skills/engineering/improve-codebase-architecture",
+    "archive": "improve-codebase-architecture.zip",
+    "sha256": "bbbec9f319fd6cba46be29d71b7f0d6c91264ac57a052a75ab86885dae694fd7"
+  },
+  {
+    "name": "pr",
+    "category": "engineering",
+    "source": "skills/engineering/pr",
+    "archive": "pr.zip",
+    "sha256": "3468139348917e25550451d7f04727c311a01d49c975c14b86d14d5201b9d5af"
+  },
+  {
+    "name": "prototype",
+    "category": "engineering",
+    "source": "skills/engineering/prototype",
+    "archive": "prototype.zip",
+    "sha256": "c397d006f0e46c1149f5f56ffb89ff0c2e8529bc16e7b63dc91a38a70d2bec0d"
+  },
+  {
+    "name": "research",
+    "category": "engineering",
+    "source": "skills/engineering/research",
+    "archive": "research.zip",
+    "sha256": "f766d99fa7e4e1250d0922774bfc5007c03a4e82c74888a7f27e9283b9c3ae74"
+  },
+  {
+    "name": "retro",
+    "category": "engineering",
+    "source": "skills/engineering/retro",
+    "archive": "retro.zip",
+    "sha256": "8dfccc1b26a9b3d1cf8abe350d70044c1c9f0c910eebf90f3dbe98f21a9b26e4"
+  },
+  {
+    "name": "setup-matt-pocock-skills",
+    "category": "engineering",
+    "source": "skills/engineering/setup-matt-pocock-skills",
+    "archive": "setup-matt-pocock-skills.zip",
+    "sha256": "a84e77487dbdcdd2f2b42f9e3453d61ece4ccdd0932dc4e921926db8407d70a3"
+  },
+  {
+    "name": "tdd",
+    "category": "engineering",
+    "source": "skills/engineering/tdd",
+    "archive": "tdd.zip",
+    "sha256": "ceac4bf7c7d530aadb7d7274d2341a8a427ec046a1675d78a7d07847d9ddd4a8"
+  },
+  {
+    "name": "to-spec",
+    "category": "engineering",
+    "source": "skills/engineering/to-spec",
+    "archive": "to-spec.zip",
+    "sha256": "f0a0d58153df60c9f5436834180a219eb448a825ff312a452feebf9656842888"
+  },
+  {
+    "name": "to-tickets",
+    "category": "engineering",
+    "source": "skills/engineering/to-tickets",
+    "archive": "to-tickets.zip",
+    "sha256": "2475ff69f5e7e5fefda55f392b5adeb9f31719dc299046d2632b3224ebb09d55"
+  },
+  {
+    "name": "triage",
+    "category": "engineering",
+    "source": "skills/engineering/triage",
+    "archive": "triage.zip",
+    "sha256": "df581978fb16fb1c64dd7532af0117dafaa0372e9e977a80d0a11eeaeacbbf70"
+  },
+  {
+    "name": "wayfinder",
+    "category": "engineering",
+    "source": "skills/engineering/wayfinder",
+    "archive": "wayfinder.zip",
+    "sha256": "31e306efcff1c0128529ca47510d2941d3c5ccc7bc4fac718256ea198f9e3f45"
+  },
+  {
+    "name": "wizard",
+    "category": "engineering",
+    "source": "skills/engineering/wizard",
+    "archive": "wizard.zip",
+    "sha256": "2fa7c22fa2e56684eaad8ae434b47b623d4890de9033225ae795e03ac019ede7"
+  },
+  {
+    "name": "ccgs-brainstorm",
+    "category": "game-development",
+    "source": "skills/game-development/ccgs-brainstorm",
+    "archive": "ccgs-brainstorm.zip",
+    "sha256": "3f90c5045a41f18409b8df1d783e105e68fb8232800802c471e592ced1b304db"
+  },
+  {
+    "name": "ccgs-code-review",
+    "category": "game-development",
+    "source": "skills/game-development/ccgs-code-review",
+    "archive": "ccgs-code-review.zip",
+    "sha256": "b249e9253a9fe433dd0c57a1c7a4688c3f4981fbd487bf68733ceb3314c986af"
+  },
+  {
+    "name": "ccgs-consistency-check",
+    "category": "game-development",
+    "source": "skills/game-development/ccgs-consistency-check",
+    "archive": "ccgs-consistency-check.zip",
+    "sha256": "253c9abead1b7a1ead919912ac28d57887fae6f191009e5914f53fe6f6fc9f96"
+  },
+  {
+    "name": "ccgs-create-architecture",
+    "category": "game-development",
+    "source": "skills/game-development/ccgs-create-architecture",
+    "archive": "ccgs-create-architecture.zip",
+    "sha256": "00135ef1929d5bbb9ca448f664e0f760aaeefed658ad11800b384fd5ec237c5f"
+  },
+  {
+    "name": "ccgs-create-epics",
+    "category": "game-development",
+    "source": "skills/game-development/ccgs-create-epics",
+    "archive": "ccgs-create-epics.zip",
+    "sha256": "dcfe1aff805a32b95b0c9e981e476fd056588d7578934f58a3198d59b0b43f03"
+  },
+  {
+    "name": "ccgs-design-system",
+    "category": "game-development",
+    "source": "skills/game-development/ccgs-design-system",
+    "archive": "ccgs-design-system.zip",
+    "sha256": "1b5df6b12d9d3c2c88714a0bc4bc11c5e23b8458dd34c811ff433d4ad755dec1"
+  },
+  {
+    "name": "ccgs-learn",
+    "category": "game-development",
+    "source": "skills/game-development/ccgs-learn",
+    "archive": "ccgs-learn.zip",
+    "sha256": "7db93f3adfb9ced5ec2749d8fe4333b0de480d91a89f7111da2192b447b033ab"
+  },
+  {
+    "name": "ccgs-map-systems",
+    "category": "game-development",
+    "source": "skills/game-development/ccgs-map-systems",
+    "archive": "ccgs-map-systems.zip",
+    "sha256": "389c44f392d2341d14dc37d81298bc4ad47625375baa1c1572861e5b84265150"
+  },
+  {
+    "name": "ccgs-propagate-design-change",
+    "category": "game-development",
+    "source": "skills/game-development/ccgs-propagate-design-change",
+    "archive": "ccgs-propagate-design-change.zip",
+    "sha256": "b2305e745dd458ffe674f7f6fdedeba5167278005c23a2b0f35126d064b8e2ac"
+  },
+  {
+    "name": "ccgs-resume-session",
+    "category": "game-development",
+    "source": "skills/game-development/ccgs-resume-session",
+    "archive": "ccgs-resume-session.zip",
+    "sha256": "021f764a0f19f8039f48e9b7625132099cdb957ad77656765ea7dfb7c060d020"
+  },
+  {
+    "name": "ccgs-reverse-document",
+    "category": "game-development",
+    "source": "skills/game-development/ccgs-reverse-document",
+    "archive": "ccgs-reverse-document.zip",
+    "sha256": "cad835b3ae34e4c6cadd05bde72551fff9fd14bf077f8842dc38f54f660d9a92"
+  },
+  {
+    "name": "ccgs-save-session",
+    "category": "game-development",
+    "source": "skills/game-development/ccgs-save-session",
+    "archive": "ccgs-save-session.zip",
+    "sha256": "1b7d1d7f16d5d79dd14877db16cb21c9339eb72172e3b6c171ac2ada372dc426"
+  },
+  {
+    "name": "ccgs-sprint-plan",
+    "category": "game-development",
+    "source": "skills/game-development/ccgs-sprint-plan",
+    "archive": "ccgs-sprint-plan.zip",
+    "sha256": "d294820eafd3ab4f5fa4733119b50197d1a25817646a8dc992e16ca5a817a5d2"
+  },
+  {
+    "name": "ccgs-start",
+    "category": "game-development",
+    "source": "skills/game-development/ccgs-start",
+    "archive": "ccgs-start.zip",
+    "sha256": "ff0a03a101d4a6bb79f8f4de6a621352fd672390ce67a778139b9d0879168c4c"
+  },
+  {
+    "name": "ccgs-story-done",
+    "category": "game-development",
+    "source": "skills/game-development/ccgs-story-done",
+    "archive": "ccgs-story-done.zip",
+    "sha256": "9808414c8e70e7a58756b1fdc964458f1579d797e53f5697fad4bb8052112c49"
+  },
+  {
+    "name": "ccgs-story-readiness",
+    "category": "game-development",
+    "source": "skills/game-development/ccgs-story-readiness",
+    "archive": "ccgs-story-readiness.zip",
+    "sha256": "fffaa030b4fcf49ae00f32074c0f8d855c2edb8bb5ef5a65f7e7779c72091a42"
+  },
+  {
+    "name": "game-design-and-rewards",
+    "category": "game-development",
+    "source": "skills/game-development/game-design-and-rewards",
+    "archive": "game-design-and-rewards.zip",
+    "sha256": "9f173789d55bf99c54ecf867c30f7fb687ef9aca577905f52cdf2eba6e32ea4a"
+  },
+  {
+    "name": "query-me",
+    "category": "game-development",
+    "source": "skills/game-development/query-me",
+    "archive": "query-me.zip",
+    "sha256": "3b1ce6218ea888cbe148bd749da0b61f98746982e9fb5d73624d23874462276a"
+  },
+  {
+    "name": "story-review-test-fix",
+    "category": "game-development",
+    "source": "skills/game-development/story-review-test-fix",
+    "archive": "story-review-test-fix.zip",
+    "sha256": "298e6497a2c9e8e2e93b72d299aa64c63644c8434932bf39b05169b9c5a8aeeb"
+  },
+  {
+    "name": "unity-bug-root-cause",
+    "category": "game-development",
+    "source": "skills/game-development/unity-bug-root-cause",
+    "archive": "unity-bug-root-cause.zip",
+    "sha256": "179d0d94e35f2bd29f19bd5f1dff655136661e700c0bd4aede9df4d80ea1ecdf"
+  },
+  {
+    "name": "unity-clean-architecture-review",
+    "category": "game-development",
+    "source": "skills/game-development/unity-clean-architecture-review",
+    "archive": "unity-clean-architecture-review.zip",
+    "sha256": "101c7b8e49f3f130bf067e75b4cb8c9e8d320b0610f0e2607fbbb8cb445eb2fd"
+  },
+  {
+    "name": "unity-tdd-workflow",
+    "category": "game-development",
+    "source": "skills/game-development/unity-tdd-workflow",
+    "archive": "unity-tdd-workflow.zip",
+    "sha256": "bfd03a23031e7d8d56877b5e53c06736eaaa010177a1a7ff93ee53fee9a1d785"
+  },
+  {
+    "name": "grill-me",
+    "category": "productivity",
+    "source": "skills/productivity/grill-me",
+    "archive": "grill-me.zip",
+    "sha256": "1f8c9de7069ed74b1c3073dfe78c05318e2d08f17660b2243f7ec3a01d22e977"
+  },
+  {
+    "name": "grilling",
+    "category": "productivity",
+    "source": "skills/productivity/grilling",
+    "archive": "grilling.zip",
+    "sha256": "9288d59334c4225a0fd146438fab02d27e8f5cacec47df509fc504205b90c2ae"
+  },
+  {
+    "name": "handoff",
+    "category": "productivity",
+    "source": "skills/productivity/handoff",
+    "archive": "handoff.zip",
+    "sha256": "b94402b2f7849aebedfd8b7ce3af82888bee7e41c62ee4c42985ecd0523ad47b"
+  },
+  {
+    "name": "teach",
+    "category": "productivity",
+    "source": "skills/productivity/teach",
+    "archive": "teach.zip",
+    "sha256": "b4a76a2834bc5e8d0110739a8a2f9954ef453752c714047da79cd9e2072ff603"
+  },
+  {
+    "name": "to-questionnaire",
+    "category": "productivity",
+    "source": "skills/productivity/to-questionnaire",
+    "archive": "to-questionnaire.zip",
+    "sha256": "76206f2c55f28dbbe0f4de9d105a8fc6460ca910176de1b039e48f85eb804eb8"
+  },
+  {
+    "name": "wait-what",
+    "category": "productivity",
+    "source": "skills/productivity/wait-what",
+    "archive": "wait-what.zip",
+    "sha256": "a9373e7af37dcfd42a5fb8eeb89eeef367678f6f01299fa44d29e0e8326f462b"
+  },
+  {
+    "name": "writing-for-agents",
+    "category": "productivity",
+    "source": "skills/productivity/writing-for-agents",
+    "archive": "writing-for-agents.zip",
+    "sha256": "41034c2cc75ea411a88dcd924621cc6099007a37bd8ddac6549378b66e3611ed"
+  }
+]

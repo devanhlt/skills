@@ -1,0 +1,3 @@
+interface:
+  display_name: "ccgs-consistency-check"
+  short_description: "Find inconsistent entities, values, and rules across designs."

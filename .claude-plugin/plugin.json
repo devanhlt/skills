@@ -1,13 +1,13 @@
 {
-  "name": "mattpocock-skills",
-  "version": "1.3.1",
-  "description": "Matt Pocock's agent skills for real engineering: grilling, spec/ticket flows, TDD, code review, domain modelling and more. Plug-and-play, not vibe coding.",
+  "name": "devanhlt-skills",
+  "version": "1.4.0",
+  "description": "Engineering, productivity, Unity game-studio workflows, and game-design skills collected by devanhlt.",
   "author": {
-    "name": "Matt Pocock",
-    "url": "https://www.aihero.dev"
+    "name": "devanhlt",
+    "url": "https://github.com/devanhlt"
   },
-  "homepage": "https://www.aihero.dev/s/skills-newsletter",
-  "repository": "https://github.com/mattpocock/skills",
+  "homepage": "https://github.com/devanhlt/skills",
+  "repository": "https://github.com/devanhlt/skills",
   "license": "MIT",
   "keywords": [
     "engineering",
@@ -16,7 +16,10 @@
     "code-review",
     "grilling",
     "domain-modeling",
-    "productivity"
+    "productivity",
+    "game-development",
+    "unity",
+    "rewards"
   ],
   "skills": [
     "./skills/engineering/ask-matt",
@@ -45,6 +48,28 @@
     "./skills/productivity/teach",
     "./skills/productivity/to-questionnaire",
     "./skills/productivity/wait-what",
-    "./skills/productivity/writing-for-agents"
+    "./skills/productivity/writing-for-agents",
+    "./skills/game-development/ccgs-brainstorm",
+    "./skills/game-development/ccgs-code-review",
+    "./skills/game-development/ccgs-consistency-check",
+    "./skills/game-development/ccgs-create-architecture",
+    "./skills/game-development/ccgs-create-epics",
+    "./skills/game-development/ccgs-design-system",
+    "./skills/game-development/ccgs-learn",
+    "./skills/game-development/ccgs-map-systems",
+    "./skills/game-development/ccgs-propagate-design-change",
+    "./skills/game-development/ccgs-resume-session",
+    "./skills/game-development/ccgs-reverse-document",
+    "./skills/game-development/ccgs-save-session",
+    "./skills/game-development/ccgs-sprint-plan",
+    "./skills/game-development/ccgs-start",
+    "./skills/game-development/ccgs-story-done",
+    "./skills/game-development/ccgs-story-readiness",
+    "./skills/game-development/game-design-and-rewards",
+    "./skills/game-development/query-me",
+    "./skills/game-development/story-review-test-fix",
+    "./skills/game-development/unity-bug-root-cause",
+    "./skills/game-development/unity-clean-architecture-review",
+    "./skills/game-development/unity-tdd-workflow"
   ]
 }

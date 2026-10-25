@@ -1,0 +1,3 @@
+interface:
+  display_name: "ccgs-story-done"
+  short_description: "Check acceptance criteria and finalize a completed story."

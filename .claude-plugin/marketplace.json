@@ -1,22 +1,20 @@
 {
-  "name": "mattpocock",
+  "name": "devanhlt",
   "owner": {
-    "name": "Matt Pocock",
-    "url": "https://www.aihero.dev"
+    "name": "devanhlt",
+    "url": "https://github.com/devanhlt"
   },
-  "description": "Matt Pocock's skills for real engineering, as an installable Claude Code plugin.",
+  "description": "Claude skills collected by devanhlt.",
   "plugins": [
     {
-      "name": "mattpocock-skills",
+      "name": "devanhlt-skills",
       "source": "./",
-      "description": "Matt Pocock's agent skills for real engineering (grilling, spec/ticket flows, TDD, code review, domain modelling and more).",
-      "category": "engineering",
+      "description": "Engineering, productivity, Unity game-studio workflows, and game-design skills collected by devanhlt.",
+      "category": "productivity",
       "keywords": [
         "engineering",
-        "skills",
-        "tdd",
-        "code-review",
-        "grilling"
+        "game-development",
+        "unity"
       ]
     }
   ]

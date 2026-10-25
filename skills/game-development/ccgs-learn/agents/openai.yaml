@@ -1,0 +1,3 @@
+interface:
+  display_name: "ccgs-learn"
+  short_description: "Extract and review reusable lessons from completed work."

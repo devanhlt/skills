@@ -1,3 +1,20 @@
+## Install this collection
+
+### Claude Code
+
+```bash
+claude plugin marketplace add devanhlt/skills
+claude plugin install devanhlt-skills@devanhlt
+```
+
+### Claude and Cowork
+
+Download the individual ZIPs from [downloads](https://github.com/devanhlt/skills/tree/main/downloads). In Claude, open **Customize > Skills > + Create skill > Upload a skill** and upload the desired ZIP. Enable it after uploading. Upload individual skills, not the GitHub repository ZIP.
+
+Pick the plugin or individual skill installation for a given Claude environment to avoid duplicate skills. The plugin bundles the promoted engineering, productivity, and game-development categories. Beta and miscellaneous skills remain in the repository but are not promoted or included in these downloads.
+
+## Historical upstream installation block
+
 # The canonical install block
 
 One install story, one wording. `README.md`, `.changeset/*`, and every page under `docs/` must say **this** and nothing else. Change it here first, then propagate.

@@ -1,0 +1,3 @@
+interface:
+  display_name: "ccgs-create-epics"
+  short_description: "Turn approved designs and architecture into epics."

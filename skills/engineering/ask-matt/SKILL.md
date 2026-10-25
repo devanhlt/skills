@@ -95,3 +95,33 @@ Off the main flow entirely.
 ## Precondition
 
 **`/setup-matt-pocock-skills`**: run before your first engineering flow to configure the issue tracker, triage labels, and doc layout the other skills assume. Custom issue trackers also work.
+
+
+## Game-development collection
+
+For game development, read the relevant skill before recommending it. Use the full name because studio and engineering reviews are different workflows.
+
+- **`/ccgs-brainstorm`**: Develop an idea into a structured game concept.
+- **`/ccgs-code-review`**: Review game code for architecture, quality, and testability.
+- **`/ccgs-consistency-check`**: Find inconsistent entities, values, and rules across designs.
+- **`/ccgs-create-architecture`**: Translate game designs into a technical architecture.
+- **`/ccgs-create-epics`**: Turn approved designs and architecture into epics.
+- **`/ccgs-design-system`**: Write a game design document for one system.
+- **`/ccgs-learn`**: Extract and review reusable lessons from completed work.
+- **`/ccgs-map-systems`**: Map game systems, dependencies, and design priorities.
+- **`/ccgs-propagate-design-change`**: Trace design revisions into affected architecture decisions.
+- **`/ccgs-resume-session`**: Resume work from saved session state and verify it against files.
+- **`/ccgs-reverse-document`**: Recover design or architecture documentation from existing code.
+- **`/ccgs-save-session`**: Save project decisions, evidence, blockers, and the next step.
+- **`/ccgs-sprint-plan`**: Create or update a sprint plan from project capacity and priorities.
+- **`/ccgs-start`**: Find the right starting point for a Unity game project.
+- **`/ccgs-story-done`**: Check acceptance criteria and finalize a completed story.
+- **`/ccgs-story-readiness`**: Check whether a story is sufficiently specified to implement.
+- **`/game-design-and-rewards`**: Design and review mechanics, player experience, progression, and rewards.
+- **`/query-me`**: Clarify hidden requirements through a structured interview.
+- **`/story-review-test-fix`**: Compare implementation and tests with a written story specification.
+- **`/unity-bug-root-cause`**: Trace a Unity gameplay defect to its originating trigger.
+- **`/unity-clean-architecture-review`**: Review separation of Unity presentation, domain, and infrastructure.
+- **`/unity-tdd-workflow`**: Implement Unity gameplay rules through test-first development.
+
+Start studio onboarding with `ccgs-start`. Use `game-design-and-rewards` for a focused design or reward-system question without imposing the full studio pipeline. The collection does not supply dedicated `create-stories` or `dev-story` skills; do not claim those are installed.

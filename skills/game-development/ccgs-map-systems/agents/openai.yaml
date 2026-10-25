@@ -1,0 +1,3 @@
+interface:
+  display_name: "ccgs-map-systems"
+  short_description: "Map game systems, dependencies, and design priorities."

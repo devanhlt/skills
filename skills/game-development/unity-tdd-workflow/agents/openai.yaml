@@ -1,0 +1,3 @@
+interface:
+  display_name: "unity-tdd-workflow"
+  short_description: "Implement Unity gameplay rules through test-first development."

@@ -1,0 +1,3 @@
+interface:
+  display_name: "unity-bug-root-cause"
+  short_description: "Trace a Unity gameplay defect to its originating trigger."

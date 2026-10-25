@@ -1,0 +1,3 @@
+interface:
+  display_name: "story-review-test-fix"
+  short_description: "Compare implementation and tests with a written story specification."

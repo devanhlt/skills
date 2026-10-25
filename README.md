@@ -62,6 +62,23 @@ This rebuilds the per-skill upload ZIPs and download catalog. The script package
 
 See [source provenance](./SOURCES.md) for import origins. No original books or extracted book text are included. The new design-and-rewards skill is an applied synthesis, not the full books.
 
+## Screenshots and store assets
+
+### User-invoked
+
+These four imported skills do not require explicit-only invocation.
+
+### Model-invoked
+
+| Skill | Best fit |
+|---|---|
+| [hypershots](./skills/engineering/hypershots/SKILL.md) | Build deterministic HTML/CSS App Store panels with localization and optional generated art. |
+| [shots](./skills/engineering/shots/SKILL.md) | Research, generate, revise, and translate AI-assisted store screenshot composites. |
+| [store-screenshots](./skills/engineering/store-screenshots/SKILL.md) | Composite real captures into branded App Store, Google Play, and website screenshot designs. |
+| [app-store-assets](./skills/engineering/app-store-assets/SKILL.md) | Build and check App Store screenshots, previews, icons, and creative assets. |
+
+Use the exact skill name to select a workflow. HyperShots and Shots have different `.shots/` schemas; keep their workspaces separate. Each standalone ZIP includes its runtime sources and dependency declarations, not installed dependencies or provider credentials. Shots has no explicit upstream license at the pinned revision; see its LICENSE-NOTICE.md rather than assuming the collection MIT license applies. The other three retain their MIT licenses, with separate font terms where applicable.
+
 ## 3D visualization
 
 ### User-invoked

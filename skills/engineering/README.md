@@ -20,6 +20,11 @@ Reachable only when you type them (Claude Code: `disable-model-invocation: true`
 
 ## Model-invoked
 
+- **[hypershots](./hypershots/SKILL.md)**: Build deterministic HTML/CSS App Store panels with localization and optional generated art.
+- **[shots](./shots/SKILL.md)**: Research, generate, revise, and translate AI-assisted store screenshot composites.
+- **[store-screenshots](./store-screenshots/SKILL.md)**: Composite real captures into branded App Store, Google Play, and website screenshot designs.
+- **[app-store-assets](./app-store-assets/SKILL.md)**: Build and check App Store screenshots, previews, icons, and creative assets.
+
 - **[3dviz-pro-max](./3dviz-pro-max/SKILL.md)**: Create and inspect expressive 3D scenes, explainers, and interactive models using local recipes and reusable kits.
 
 - **[ui-ux-pro-max](./ui-ux-pro-max/SKILL.md)**: Search local UI/UX guidance and generate design systems for web, mobile, and desktop interfaces.

@@ -1,5 +1,11 @@
 # devanhlt collection additions
 
+## 1.4.3
+
+- Add HyperShots, Shots, Store Screenshots, and App Store Assets with their supporting resources.
+- Adapt command paths and project-local tool/cache setup for plugin and standalone installs.
+- Add source/license notices, workflow selection guidance, and individual upload ZIPs.
+
 ## 1.4.2
 
 - Add the standalone 3Dviz Pro Max skill with its catalog, references, scripts, templates, kits, and MIT license.

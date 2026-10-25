@@ -7,11 +7,18 @@
     "sha256": "8bb99470c7c9cfb1c9fced0c3860860cb618cc4f7a3144625f54829b4bd3f883"
   },
   {
+    "name": "app-store-assets",
+    "category": "engineering",
+    "source": "skills/engineering/app-store-assets",
+    "archive": "app-store-assets.zip",
+    "sha256": "77fb5ddf04f213ba57b9cab462d55b9e472bae177aa67b7093e2efe889be32d3"
+  },
+  {
     "name": "ask-matt",
     "category": "engineering",
     "source": "skills/engineering/ask-matt",
     "archive": "ask-matt.zip",
-    "sha256": "a771d3462357e216c25edabf32205197e9722997c91212a113150df9f2c79394"
+    "sha256": "069977886ee414aac15f7e9cc733db049710daa152f8ac1bc3cbaeabf37da58e"
   },
   {
     "name": "code-review",
@@ -47,6 +54,13 @@
     "source": "skills/engineering/grill-with-docs",
     "archive": "grill-with-docs.zip",
     "sha256": "e3ee8b62b4b5bd4fdf3e7ad9a423c4ef67f205b1449db59ca9d46581f679d57d"
+  },
+  {
+    "name": "hypershots",
+    "category": "engineering",
+    "source": "skills/engineering/hypershots",
+    "archive": "hypershots.zip",
+    "sha256": "506de5ea8cb4ceaadc8c8b8288d8aefdad823b7818bbfce361f3dfc889b6d634"
   },
   {
     "name": "implement",
@@ -103,6 +117,20 @@
     "source": "skills/engineering/setup-matt-pocock-skills",
     "archive": "setup-matt-pocock-skills.zip",
     "sha256": "a84e77487dbdcdd2f2b42f9e3453d61ece4ccdd0932dc4e921926db8407d70a3"
+  },
+  {
+    "name": "shots",
+    "category": "engineering",
+    "source": "skills/engineering/shots",
+    "archive": "shots.zip",
+    "sha256": "b9d9c9c0f1616ca01dec8973ae4b7f26d6e3e2a6c2a0473fa7b0b44187b2a54c"
+  },
+  {
+    "name": "store-screenshots",
+    "category": "engineering",
+    "source": "skills/engineering/store-screenshots",
+    "archive": "store-screenshots.zip",
+    "sha256": "bb568360c51abe6b66410a5776b1e47550885450c125c0b4de6f76c7da82c950"
   },
   {
     "name": "tdd",

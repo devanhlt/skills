@@ -1,0 +1,3 @@
+interface:
+  display_name: "shots"
+  short_description: "Research, generate, revise, and translate AI-assisted store screenshot composites."

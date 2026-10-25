@@ -135,3 +135,15 @@ Start studio onboarding with `ccgs-start`. Use `game-design-and-rewards` for a f
 ## 3D scenes and interactive models
 
 - **`/3dviz-pro-max`**: Create or refine a 3D scene, explainer, or spatial model. Read its SKILL.md before recommending it. Use the catalog, templates, and kits where they fit the requested subject; factual claims and visual quality still need appropriate evidence. It complements `ui-ux-pro-max` for interface controls and `prototype` for a narrowly scoped runnable experiment. Installing the skill does not mean a scene has been rendered or inspected.
+
+
+## Screenshot and store-asset workflows
+
+Read the relevant SKILL.md before recommending it. These workflows overlap, so use the requested skill rather than silently switching engines.
+
+- **`/hypershots`**: Build deterministic HTML/CSS App Store panels with localization and optional generated art.
+- **`/shots`**: Research, generate, revise, and translate AI-assisted store screenshot composites.
+- **`/store-screenshots`**: Composite real captures into branded App Store, Google Play, and website screenshot designs.
+- **`/app-store-assets`**: Build and check App Store screenshots, previews, icons, and creative assets.
+
+For exact captured UI, choose a local composition workflow. Shots intentionally uses external image generation for marketing composites. For broader UI direction use `ui-ux-pro-max`. HyperShots and Shots default to incompatible `.shots/` workspaces; keep them separate.

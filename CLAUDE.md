@@ -44,3 +44,6 @@ Imported `skills/engineering/ui-ux-pro-max/` keeps its upstream scripts, data, r
 
 
 Imported `skills/engineering/3dviz-pro-max/` retains upstream catalog data, kits, helper code, metadata, reference prose, and punctuation. Only the two Markdown command-path adaptations and runtime guidance listed in `IMPORT.md` are integration changes. Keep its MIT license in source and generated ZIPs.
+
+
+The imported `hypershots`, `shots`, `store-screenshots`, and `app-store-assets` folders preserve upstream runtime code and reference punctuation. Markdown integration changes are listed in their IMPORT.md files. Preserve all included licenses and font notices. Shots has no explicit upstream license; do not describe or relicense its source as MIT. Runtime dependency caches and generated screenshots belong in the user's project, not the installed skill folders.

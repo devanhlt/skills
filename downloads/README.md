@@ -5,12 +5,14 @@ Upload one ZIP per skill through Claude Customize > Skills. These are individual
 | Category | Skill | ZIP |
 |---|---|---|
 | engineering | [3dviz-pro-max](../skills/engineering/3dviz-pro-max/SKILL.md) | [Download](3dviz-pro-max.zip) |
+| engineering | [app-store-assets](../skills/engineering/app-store-assets/SKILL.md) | [Download](app-store-assets.zip) |
 | engineering | [ask-matt](../skills/engineering/ask-matt/SKILL.md) | [Download](ask-matt.zip) |
 | engineering | [code-review](../skills/engineering/code-review/SKILL.md) | [Download](code-review.zip) |
 | engineering | [codebase-design](../skills/engineering/codebase-design/SKILL.md) | [Download](codebase-design.zip) |
 | engineering | [diagnosing-bugs](../skills/engineering/diagnosing-bugs/SKILL.md) | [Download](diagnosing-bugs.zip) |
 | engineering | [domain-modeling](../skills/engineering/domain-modeling/SKILL.md) | [Download](domain-modeling.zip) |
 | engineering | [grill-with-docs](../skills/engineering/grill-with-docs/SKILL.md) | [Download](grill-with-docs.zip) |
+| engineering | [hypershots](../skills/engineering/hypershots/SKILL.md) | [Download](hypershots.zip) |
 | engineering | [implement](../skills/engineering/implement/SKILL.md) | [Download](implement.zip) |
 | engineering | [implement-spec](../skills/engineering/implement-spec/SKILL.md) | [Download](implement-spec.zip) |
 | engineering | [improve-codebase-architecture](../skills/engineering/improve-codebase-architecture/SKILL.md) | [Download](improve-codebase-architecture.zip) |
@@ -19,6 +21,8 @@ Upload one ZIP per skill through Claude Customize > Skills. These are individual
 | engineering | [research](../skills/engineering/research/SKILL.md) | [Download](research.zip) |
 | engineering | [retro](../skills/engineering/retro/SKILL.md) | [Download](retro.zip) |
 | engineering | [setup-matt-pocock-skills](../skills/engineering/setup-matt-pocock-skills/SKILL.md) | [Download](setup-matt-pocock-skills.zip) |
+| engineering | [shots](../skills/engineering/shots/SKILL.md) | [Download](shots.zip) |
+| engineering | [store-screenshots](../skills/engineering/store-screenshots/SKILL.md) | [Download](store-screenshots.zip) |
 | engineering | [tdd](../skills/engineering/tdd/SKILL.md) | [Download](tdd.zip) |
 | engineering | [to-spec](../skills/engineering/to-spec/SKILL.md) | [Download](to-spec.zip) |
 | engineering | [to-tickets](../skills/engineering/to-tickets/SKILL.md) | [Download](to-tickets.zip) |

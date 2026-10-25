@@ -1,10 +1,17 @@
 [
   {
+    "name": "3dviz-pro-max",
+    "category": "engineering",
+    "source": "skills/engineering/3dviz-pro-max",
+    "archive": "3dviz-pro-max.zip",
+    "sha256": "8bb99470c7c9cfb1c9fced0c3860860cb618cc4f7a3144625f54829b4bd3f883"
+  },
+  {
     "name": "ask-matt",
     "category": "engineering",
     "source": "skills/engineering/ask-matt",
     "archive": "ask-matt.zip",
-    "sha256": "1f7f7666e261683c7eea720c4f0ef695fa53f086bb24a2d7f6823f4d78e57efd"
+    "sha256": "a771d3462357e216c25edabf32205197e9722997c91212a113150df9f2c79394"
   },
   {
     "name": "code-review",

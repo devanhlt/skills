@@ -4,6 +4,7 @@ Upload one ZIP per skill through Claude Customize > Skills. These are individual
 
 | Category | Skill | ZIP |
 |---|---|---|
+| engineering | [3dviz-pro-max](../skills/engineering/3dviz-pro-max/SKILL.md) | [Download](3dviz-pro-max.zip) |
 | engineering | [ask-matt](../skills/engineering/ask-matt/SKILL.md) | [Download](ask-matt.zip) |
 | engineering | [code-review](../skills/engineering/code-review/SKILL.md) | [Download](code-review.zip) |
 | engineering | [codebase-design](../skills/engineering/codebase-design/SKILL.md) | [Download](codebase-design.zip) |

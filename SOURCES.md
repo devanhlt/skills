@@ -7,3 +7,5 @@
 Source skill behavior is preserved during consolidation. The added Codex picker metadata and repository documentation support discovery; they do not claim behavioral validation in Claude.
 
 - UI/UX Pro Max: primary skill imported from [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill), version 2.15.0, commit `d14efff8ed1faa4187f004f79926f428c8074ec7`. Its MIT license is retained inside the skill and every generated upload ZIP. See `skills/engineering/ui-ux-pro-max/IMPORT.md` for the exact extraction scope and path adaptations.
+
+- 3Dviz Pro Max: standalone canonical skill imported from [viettranx/3dviz-pro-max](https://github.com/viettranx/3dviz-pro-max), version 0.1.0, commit `d077e0e68915c25be8e71d74684d3144fd1c2aca`. Its MIT license is retained in the skill and upload ZIP. The source repository's website, demo media, example projects, full evidence archive, and maintenance tooling are outside this import. See `skills/engineering/3dviz-pro-max/IMPORT.md` for scope and command-path adaptations.

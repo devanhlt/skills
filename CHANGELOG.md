@@ -1,5 +1,11 @@
 # devanhlt collection additions
 
+## 1.4.2
+
+- Add the standalone 3Dviz Pro Max skill with its catalog, references, scripts, templates, kits, and MIT license.
+- Adapt entrypoint command paths for the collection and standalone Claude uploads.
+- Document optional rendering/capture dependencies and standalone scope.
+
 ## 1.4.1
 
 - Add UI/UX Pro Max 2.15.0 with its search scripts, local datasets, references, and MIT license.

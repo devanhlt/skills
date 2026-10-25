@@ -62,6 +62,18 @@ This rebuilds the per-skill upload ZIPs and download catalog. The script package
 
 See [source provenance](./SOURCES.md) for import origins. No original books or extracted book text are included. The new design-and-rewards skill is an applied synthesis, not the full books.
 
+## 3D visualization
+
+### User-invoked
+
+No 3Dviz restriction requires explicit-only invocation.
+
+### Model-invoked
+
+- **[3dviz-pro-max](./skills/engineering/3dviz-pro-max/SKILL.md)**: Design and build expressive 3D scenes, explainers, and interactive models, with local recipes, grounded knowledge, templates, and reusable kits.
+
+The standalone package includes its catalog/search helpers and kit assets. Python 3 handles catalog search; the Three.js scaffold needs Node.js and project dependencies. Blender and Playwright capture are optional capabilities. See the [skill guide](./docs/engineering/3dviz-pro-max.md) for scope and installation limits.
+
 ## UI and UX design
 
 ### User-invoked

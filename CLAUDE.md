@@ -41,3 +41,6 @@ Run `python3 scripts/package-skills.py` to refresh individual Claude ZIPs in `do
 
 
 Imported `skills/engineering/ui-ux-pro-max/` keeps its upstream scripts, data, reference prose, and punctuation. Its `SKILL.md` has documented host-path adaptations. Keep the MIT license in the source folder and generated ZIP. Newly authored collection documentation still follows the no-em-dash convention.
+
+
+Imported `skills/engineering/3dviz-pro-max/` retains upstream catalog data, kits, helper code, metadata, reference prose, and punctuation. Only the two Markdown command-path adaptations and runtime guidance listed in `IMPORT.md` are integration changes. Keep its MIT license in source and generated ZIPs.

@@ -130,3 +130,8 @@ Start studio onboarding with `ccgs-start`. Use `game-design-and-rewards` for a f
 ## UI and UX design
 
 - **`/ui-ux-pro-max`**: Search local interface-design guidance and generate a design system. Read its SKILL.md before recommending it. Use for color, typography, layout, accessibility, interaction, charts, or implementation guidance for a detected stack. It complements `/prototype`: UI/UX Pro Max supplies design guidance, while prototype answers a specific unresolved question with a runnable artifact. It does not replace the engineering implementation or review flows.
+
+
+## 3D scenes and interactive models
+
+- **`/3dviz-pro-max`**: Create or refine a 3D scene, explainer, or spatial model. Read its SKILL.md before recommending it. Use the catalog, templates, and kits where they fit the requested subject; factual claims and visual quality still need appropriate evidence. It complements `ui-ux-pro-max` for interface controls and `prototype` for a narrowly scoped runnable experiment. Installing the skill does not mean a scene has been rendered or inspected.

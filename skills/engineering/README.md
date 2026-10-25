@@ -20,6 +20,8 @@ Reachable only when you type them (Claude Code: `disable-model-invocation: true`
 
 ## Model-invoked
 
+- **[3dviz-pro-max](./3dviz-pro-max/SKILL.md)**: Create and inspect expressive 3D scenes, explainers, and interactive models using local recipes and reusable kits.
+
 - **[ui-ux-pro-max](./ui-ux-pro-max/SKILL.md)**: Search local UI/UX guidance and generate design systems for web, mobile, and desktop interfaces.
 
 Model- or user-reachable (rich trigger phrasing so the model can reach for them).
